@@ -1,0 +1,184 @@
+09:35:23.765 [main] ERROR - Could not fetch key -java.lang.Exception: Key: execution_environment is not specified in properties file.
+09:35:23.770 [main] INFO  - Fetching execution environment from config properties file.- null
+09:35:23.790 [main] INFO  - Fetching browser name from config properties file.- chrome
+09:35:23.790 [main] INFO  - Fetching OS from config properties file.- windows
+09:35:30.943 [main] ERROR - Could not fetch key -java.lang.Exception: Key: url is not specified in properties file.
+09:35:30.944 [main] INFO  - Fetching application URL from config properties file.- null
+09:35:30.944 [main] ERROR - Could not fetch key -java.lang.Exception: Key: url is not specified in properties file.
+09:38:07.177 [main] ERROR - Could not fetch key -java.lang.Exception: Key: execution_environment is not specified in properties file.
+09:38:07.198 [main] INFO  - Fetching execution environment from config properties file.- null
+09:38:07.219 [main] INFO  - Fetching browser name from config properties file.- chrome
+09:38:07.220 [main] INFO  - Fetching OS from config properties file.- windows
+09:38:32.946 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+10:14:51.639 [main] ERROR - Could not fetch key -java.lang.Exception: Key: execution_environment is not specified in properties file.
+10:14:51.739 [main] INFO  - Fetching execution environment from config properties file.- null
+10:14:51.773 [main] INFO  - Fetching browser name from config properties file.- chrome
+10:14:51.773 [main] INFO  - Fetching OS from config properties file.- windows
+10:14:58.228 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+10:22:03.349 [main] ERROR - Could not fetch key -java.lang.Exception: Key: execution_environment is not specified in properties file.
+10:22:03.443 [main] INFO  - Fetching execution environment from config properties file.- null
+10:22:03.474 [main] INFO  - Fetching browser name from config properties file.- chrome
+10:22:03.474 [main] INFO  - Fetching OS from config properties file.- windows
+10:22:09.366 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+10:22:12.096 [main] INFO  - Navigating to login page.. 
+10:22:12.846 [main] INFO  - Entering email and password.. 
+10:22:14.208 [main] INFO  - Clicked on login button.. 
+11:02:21.168 [main] ERROR - Could not fetch key -java.lang.Exception: Key: execution_environment is not specified in properties file.
+11:02:21.273 [main] INFO  - Fetching execution environment from config properties file.- null
+11:02:21.309 [main] INFO  - Fetching browser name from config properties file.- chrome
+11:02:21.309 [main] INFO  - Fetching OS from config properties file.- windows
+11:02:29.473 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+11:21:50.564 [main] ERROR - Could not fetch key -java.lang.Exception: Key: execution_environment is not specified in properties file.
+11:21:50.568 [main] INFO  - Fetching execution environment from config properties file.- null
+11:21:50.588 [main] INFO  - Fetching browser name from config properties file.- chrome
+11:21:50.589 [main] INFO  - Fetching OS from config properties file.- windows
+11:21:55.652 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+11:21:58.087 [main] INFO  - Navigating to login page.. 
+11:21:59.273 [main] INFO  - Entering email and password.. 
+11:22:00.473 [main] INFO  - Clicked on login button.. 
+11:22:11.437 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:03:28.066 [main] ERROR - Could not fetch key -java.lang.Exception: Key: execution_environment is not specified in properties file.
+12:03:28.076 [main] INFO  - Fetching execution environment from config properties file.- null
+12:03:28.128 [main] INFO  - Fetching browser name from config properties file.- chrome
+12:03:28.129 [main] INFO  - Fetching OS from config properties file.- windows
+12:03:33.223 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:03:35.584 [main] INFO  - Navigating to login page.. 
+12:03:36.408 [main] INFO  - Entering email and password.. 
+12:03:37.082 [main] INFO  - Clicked on login button.. 
+12:03:48.264 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:05:01.748 [main] ERROR - Could not fetch key -java.lang.Exception: Key: execution_environment is not specified in properties file.
+12:05:01.812 [main] INFO  - Fetching execution environment from config properties file.- null
+12:05:01.846 [main] INFO  - Fetching browser name from config properties file.- chrome
+12:05:01.846 [main] INFO  - Fetching OS from config properties file.- windows
+12:05:05.957 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:05:08.157 [main] INFO  - Navigating to login page.. 
+12:05:09.872 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:05:09.928 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:05:09.975 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:05:10.009 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:08:01.702 [main] ERROR - Could not fetch key -java.lang.Exception: Key: execution_environment is not specified in properties file.
+12:08:01.801 [main] INFO  - Fetching execution environment from config properties file.- null
+12:08:01.830 [main] INFO  - Fetching browser name from config properties file.- chrome
+12:08:01.831 [main] INFO  - Fetching OS from config properties file.- windows
+12:08:05.699 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:08:07.928 [main] INFO  - Navigating to login page.. 
+12:08:09.108 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:08:09.118 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:08:09.136 [main] DEBUG - Parsing relationship: /_rels/.rels
+12:08:09.522 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:08:09.527 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:08:09.528 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:08:09.529 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:08:09.530 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:08:09.532 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:08:09.552 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:08:09.554 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:08:09.562 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:08:09.564 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:08:09.566 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:08:09.569 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:08:09.570 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:08:09.572 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+12:08:09.667 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:08:09.668 [main] TRACE - Resolving type for handle themefd26doctype
+12:08:09.754 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+12:08:09.763 [main] TRACE - Resolving type for handle ctstylesheet4257type
+12:08:09.772 [main] TRACE - Resolving type for handle ctfonts6623type
+12:08:09.778 [main] TRACE - Resolving type for handle ctfont14d8type
+12:08:09.787 [main] TRACE - Resolving type for handle ctfills2c6ftype
+12:08:09.791 [main] TRACE - Resolving type for handle ctfill550ctype
+12:08:09.794 [main] TRACE - Resolving type for handle ctborders0d66type
+12:08:09.799 [main] TRACE - Resolving type for handle ctborderf935type
+12:08:09.805 [main] TRACE - Resolving type for handle ctcellxfs1322type
+12:08:09.809 [main] TRACE - Resolving type for handle ctxf97f7type
+12:08:09.814 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+12:08:09.817 [main] TRACE - Resolving type for handle ctdxfsb26atype
+12:08:09.820 [main] TRACE - Resolving type for handle cttablestyles872ftype
+12:08:09.826 [main] TRACE - Resolving type for handle sstf81fdoctype
+12:08:09.833 [main] TRACE - Resolving type for handle ctsst44f3type
+12:08:09.847 [main] TRACE - Resolving type for handle ctrsta472type
+12:08:09.870 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:08:09.872 [main] TRACE - Resolving type for handle workbookec17doctype
+12:08:09.878 [main] TRACE - Resolving type for handle ctworkbook83c3type
+12:08:09.886 [main] TRACE - Resolving type for handle ctsheets49fdtype
+12:08:09.889 [main] TRACE - Resolving type for handle ctsheet4dbetype
+12:08:09.892 [main] TRACE - Resolving type for handle strelationshipid1e94type
+12:08:09.897 [main] TRACE - Resolving type for handle worksheetf539doctype
+12:08:09.906 [main] TRACE - Resolving type for handle ctworksheet530dtype
+12:08:09.914 [main] TRACE - Resolving type for handle ctsheetdata8408type
+12:08:09.918 [main] TRACE - Resolving type for handle ctrowdd39type
+12:08:09.924 [main] TRACE - Resolving type for handle ctcell842btype
+12:08:09.934 [main] TRACE - Resolving type for handle stcellrefe4e0type
+12:08:09.944 [main] TRACE - Resolving type for handle ctcols627ctype
+12:08:09.951 [main] TRACE - Resolving type for handle ctcola95ftype
+12:08:09.976 [main] TRACE - Resolving type for handle cthyperlinks6416type
+12:08:09.980 [main] TRACE - Resolving type for handle cthyperlink0c85type
+12:08:09.989 [main] TRACE - Resolving type for handle stxstringf179type
+12:08:09.992 [main] TRACE - Resolving type for handle stcelltypebf95type
+12:08:21.575 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:08:21.620 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:08:21.669 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:08:21.737 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:12:18.626 [main] ERROR - Could not fetch key -java.lang.Exception: Key: execution_environment is not specified in properties file.
+12:12:18.724 [main] INFO  - Fetching execution environment from config properties file.- null
+12:12:18.757 [main] INFO  - Fetching browser name from config properties file.- chrome
+12:12:18.758 [main] INFO  - Fetching OS from config properties file.- windows
+12:12:23.079 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:12:25.374 [main] INFO  - Navigating to login page.. 
+12:12:26.759 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:12:26.763 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:12:26.766 [main] DEBUG - Parsing relationship: /_rels/.rels
+12:12:26.992 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:12:26.996 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:12:26.998 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:12:26.998 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:12:26.999 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:12:27.001 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:12:27.021 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:12:27.023 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:12:27.031 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:12:27.033 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:12:27.036 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:12:27.038 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:12:27.040 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:12:27.042 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+12:12:27.123 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:12:27.125 [main] TRACE - Resolving type for handle themefd26doctype
+12:12:27.218 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+12:12:27.228 [main] TRACE - Resolving type for handle ctstylesheet4257type
+12:12:27.235 [main] TRACE - Resolving type for handle ctfonts6623type
+12:12:27.240 [main] TRACE - Resolving type for handle ctfont14d8type
+12:12:27.248 [main] TRACE - Resolving type for handle ctfills2c6ftype
+12:12:27.252 [main] TRACE - Resolving type for handle ctfill550ctype
+12:12:27.255 [main] TRACE - Resolving type for handle ctborders0d66type
+12:12:27.260 [main] TRACE - Resolving type for handle ctborderf935type
+12:12:27.265 [main] TRACE - Resolving type for handle ctcellxfs1322type
+12:12:27.270 [main] TRACE - Resolving type for handle ctxf97f7type
+12:12:27.275 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+12:12:27.278 [main] TRACE - Resolving type for handle ctdxfsb26atype
+12:12:27.281 [main] TRACE - Resolving type for handle cttablestyles872ftype
+12:12:27.286 [main] TRACE - Resolving type for handle sstf81fdoctype
+12:12:27.293 [main] TRACE - Resolving type for handle ctsst44f3type
+12:12:27.314 [main] TRACE - Resolving type for handle ctrsta472type
+12:12:27.341 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+12:12:27.342 [main] TRACE - Resolving type for handle workbookec17doctype
+12:12:27.350 [main] TRACE - Resolving type for handle ctworkbook83c3type
+12:12:27.358 [main] TRACE - Resolving type for handle ctsheets49fdtype
+12:12:27.361 [main] TRACE - Resolving type for handle ctsheet4dbetype
+12:12:27.364 [main] TRACE - Resolving type for handle strelationshipid1e94type
+12:12:27.369 [main] TRACE - Resolving type for handle worksheetf539doctype
+12:12:27.379 [main] TRACE - Resolving type for handle ctworksheet530dtype
+12:12:27.393 [main] TRACE - Resolving type for handle ctsheetdata8408type
+12:12:27.397 [main] TRACE - Resolving type for handle ctrowdd39type
+12:12:27.404 [main] TRACE - Resolving type for handle ctcell842btype
+12:12:27.414 [main] TRACE - Resolving type for handle stcellrefe4e0type
+12:12:27.424 [main] TRACE - Resolving type for handle ctcols627ctype
+12:12:27.430 [main] TRACE - Resolving type for handle ctcola95ftype
+12:12:27.454 [main] TRACE - Resolving type for handle cthyperlinks6416type
+12:12:27.457 [main] TRACE - Resolving type for handle cthyperlink0c85type
+12:12:27.467 [main] TRACE - Resolving type for handle stxstringf179type
+12:12:27.471 [main] TRACE - Resolving type for handle stcelltypebf95type
+12:12:39.215 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:12:39.270 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:12:39.343 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
+12:12:39.396 [main] INFO  - Fetching application URL from config properties file.- https://naveenautomationlabs.com/opencart/
